@@ -1,0 +1,22 @@
+{
+    "cards":[{
+        "img":"1.jpg",
+        "name":"iphone 11",
+        "rate":"1",
+        "offer":"45090",
+        "button":"view"
+
+    },{
+        "img":"2.webp",
+        "name":"iphone 12 pro",
+        "rate":"1",
+        "offer":"99090",
+        "button":"view"
+      },{
+        "img":"3.jpg",
+        "name":"iphone 13",
+        "rate":"1",
+        "offer":"65090",
+        "button":"view"
+      }]
+    }
